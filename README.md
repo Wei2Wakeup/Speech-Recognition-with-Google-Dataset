@@ -7,3 +7,8 @@ labels:
 * 31 labeled wav data + background noise 
 * 12 possible labels for detection: yes, no, up, down, left, right, on, off, stop, go, silence, unknown.
 
+## Functions:
+* representation
+* resample
+* augment
+* vgg-like model
